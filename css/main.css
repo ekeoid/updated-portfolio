@@ -39,7 +39,7 @@
 @import url('font-awesome.css'); /* Full icons list: http://fontawesome.io/icons/ */
 
 /* Google fonts */
-@import url("https://fonts.googleapis.com/css?family=Oswald:300,400,700");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
 @import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=latin,latin-ext,cyrillic");
 
 
@@ -76,7 +76,7 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   color: #222;
-  font-family: Oswald, Helvetica, sans-serif;
+  font-family: Lato, Helvetica, sans-serif;
   line-height: 1.5em;
   margin-top: 0;
   margin-bottom: 10px;
@@ -531,7 +531,7 @@ p.site-description {
   color: #9c9c9c;
   font-size: 16px;
   font-weight: 300;
-  font-family: Oswald, Helvetica, sans-serif;
+  font-family: Lato, Helvetica, sans-serif;
   margin: 10px 0;
 }
 
@@ -624,7 +624,7 @@ ul.social-links li:last-child a {
   display: block;
   padding: 0;
   margin: 0;
-  font-family: Oswald, Helvetica, sans-serif;
+  font-family: Lato, Helvetica, sans-serif;
 }
 
 .site-main-menu li {
@@ -764,7 +764,7 @@ ul.social-links li:last-child a {
   color: #fff;
   font-size: 21px;
   font-weight: 300;
-  font-family: Oswald, Helvetica, sans-serif;
+  font-family: Lato, Helvetica, sans-serif;
   margin: 5px 0;
   text-align: center;
 }
@@ -788,7 +788,7 @@ ul.social-links li:last-child a {
 
 .info-list li .title {
   display: inline-block;
-  font-family: Oswald, Helvetica, sans-serif;
+  font-family: Lato, Helvetica, sans-serif;
   margin-right: 15px;
   color: #222;
 }
@@ -925,7 +925,7 @@ ul.social-links li:last-child a {
 .testimonial-author {
   display: inline-block;
   font-size: 15px;
-  font-family: Oswald, Helvetica, sans-serif;
+  font-family: Lato, Helvetica, sans-serif;
   color: #222;
   margin: 0;
   font-weight: 500;
@@ -1989,7 +1989,7 @@ blockquote {
     float: left;
     font-size: 18px;
     font-weight: 500;
-    font-family: Oswald, Helvetica, sans-serif;
+    font-family: Lato, Helvetica, sans-serif;
     margin: 0;
     line-height: 50px;
   }
