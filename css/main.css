@@ -1018,6 +1018,13 @@ ul.social-links li:last-child a {
   display: block;
 }
 
+.timeline-event > ul {
+  font-size: 10pt;
+  padding-left: 15px;
+  list-style-type: square;
+}
+
+
 .event-date {
   display: inline-block;
   position: relative;
@@ -1056,6 +1063,12 @@ ul.social-links li:last-child a {
 
 .download-cv-block {
   margin: 0 0 20px;
+}
+
+.download-cv-block {
+  display: inline-block;
+  float: right;
+  padding-right: 15%;
 }
 
 /* Skills */
